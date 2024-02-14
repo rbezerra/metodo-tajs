@@ -7,7 +7,7 @@
       "command": "bash",
       "args": [
         "-c",
-        ". ~/.nvm/nvm.sh && nvm use v18; PROJECT_DIR=$(dirname ${file}); cd \"${PROJECT_DIR}\"; npm run test:debug;"
+        ". ~/.nvm/nvm.sh && nvm use v20; PROJECT_DIR=$(dirname ${file}); cd \"${PROJECT_DIR}\"; npm run test:debug;"
       ],
       "group": {
         "kind": "build",
