@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:metodo-tajs}/modulo06-complex-scenarios/aula03-projeto-final/api/database.tajs.sqlite3",
+      "name": "tajs"
+    }
+  ]
+}
